@@ -1,3 +1,5 @@
+# 💫 About Me:
+Hi 👋 I'm Tanmay Hiwanj<br><br>Graduate engineer with 1 year of hands-on experience in Data Engineering and software development.  <br>Experienced in building ETL pipelines, working with Python, SQL, and PySpark, and handling large-scale data processing on cloud platforms.<br><br>Interested in scalable data systems, Spark optimization, and real-world data-driven solutions.<br>
 
 
 ## 🌐 Socials:
